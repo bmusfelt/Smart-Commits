@@ -1,3 +1,3 @@
 # Smart-Commits
 Smart commit demo
-Commit for demo. This is annoying
+Commit for demo. This is annoying more changes
