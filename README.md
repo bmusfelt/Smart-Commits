@@ -2,4 +2,4 @@
 Smart commit demo
 Commit for demo. This is a second PR and branch  combo for the Tuesday Demo
 Changes
-Exa;mple for smar 4
+Example for smart 4
